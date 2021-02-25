@@ -1,0 +1,864 @@
+Year,Yield,Scale,Type
+1990,29.55,Provincial,Corn
+1991,36.15,Provincial,Corn
+1992,30.75,Provincial,Corn
+1993,36.75,Provincial,Corn
+1994,39.6,Provincial,Corn
+1995,36.9,Provincial,Corn
+1996,40.8,Provincial,Corn
+1997,41.85,Provincial,Corn
+1998,42.45,Provincial,Corn
+1999,46.2,Provincial,Corn
+2000,47.1,Provincial,Corn
+2001,44.25,Provincial,Corn
+2002,48.75,Provincial,Corn
+2003,46.65,Provincial,Corn
+2004,47.25,Provincial,Corn
+2005,47.85,Provincial,Corn
+2006,45.75,Provincial,Corn
+2007,48.9,Provincial,Corn
+2008,53.25,Provincial,Corn
+2009,53.85,Provincial,Corn
+2010,53.25,Provincial,Corn
+2011,30.9,Provincial,Corn
+2012,44.1,Provincial,Corn
+2013,38.25,Provincial,Corn
+2014,39.9,Provincial,Corn
+2015,42.45,Provincial,Corn
+2016,43.8,Provincial,Corn
+1961,11.848,National,Corn
+1962,12.706,National,Corn
+1963,13.404,National,Corn
+1964,14.792,National,Corn
+1965,15.115,National,Corn
+1966,17.141,National,Corn
+1967,19.358,National,Corn
+1968,18.175,National,Corn
+1969,17.769,National,Corn
+1970,20.891,National,Corn
+1971,21.461,National,Corn
+1972,19.25,National,Corn
+1973,23.344,National,Corn
+1974,24.683,National,Corn
+1975,25.422,National,Corn
+1976,25.072,National,Corn
+1977,25.158,National,Corn
+1978,28.031,National,Corn
+1979,29.851,National,Corn
+1980,30.785,National,Corn
+1981,30.507,National,Corn
+1982,32.686,National,Corn
+1983,36.255,National,Corn
+1984,39.62,National,Corn
+1985,36.103,National,Corn
+1986,37.074,National,Corn
+1987,39.23,National,Corn
+1988,39.306,National,Corn
+1989,38.813,National,Corn
+1990,45.252,National,Corn
+1991,45.799,National,Corn
+1992,45.347,National,Corn
+1993,49.641,National,Corn
+1994,46.951,National,Corn
+1995,49.177,National,Corn
+1996,52.039,National,Corn
+1997,43.901,National,Corn
+1998,52.686,National,Corn
+1999,49.458,National,Corn
+2000,45.992,National,Corn
+2001,46.999,National,Corn
+2002,48.737,National,Corn
+2003,48.146,National,Corn
+2004,51.217,National,Corn
+2005,52.881,National,Corn
+2006,53.272,National,Corn
+2007,51.673,National,Corn
+2008,55.561,National,Corn
+2009,52.593,National,Corn
+2010,54.598,National,Corn
+2011,57.481,National,Corn
+2012,58.699,National,Corn
+2013,60.161,National,Corn
+2014,58.091,National,Corn
+2015,58.929,National,Corn
+2016,59.477,National,Corn
+1961,19.423,Global,Corn
+1962,19.796,Global,Corn
+1963,20.311,Global,Corn
+1964,19.937,Global,Corn
+1965,21.237,Global,Corn
+1966,22.078,Global,Corn
+1967,24.236,Global,Corn
+1968,22.894,Global,Corn
+1969,24.206,Global,Corn
+1970,23.509,Global,Corn
+1971,26.534,Global,Corn
+1972,26.867,Global,Corn
+1973,27.217,Global,Corn
+1974,25.565,Global,Corn
+1975,28.132,Global,Corn
+1976,28.371,Global,Corn
+1977,29.668,Global,Corn
+1978,31.556,Global,Corn
+1979,33.847,Global,Corn
+1980,31.534,Global,Corn
+1981,34.933,Global,Corn
+1982,36.09,Global,Corn
+1983,29.452,Global,Corn
+1984,35.256,Global,Corn
+1985,37.202,Global,Corn
+1986,36.279,Global,Corn
+1987,34.863,Global,Corn
+1988,31.001,Global,Corn
+1989,36.186,Global,Corn
+1990,36.907,Global,Corn
+1991,36.996,Global,Corn
+1992,39.064,Global,Corn
+1993,36.305,Global,Corn
+1994,41.12,Global,Corn
+1995,38.1,Global,Corn
+1996,42.061,Global,Corn
+1997,41.511,Global,Corn
+1998,44.354,Global,Corn
+1999,44.255,Global,Corn
+2000,43.236,Global,Corn
+2001,44.775,Global,Corn
+2002,43.884,Global,Corn
+2003,44.61,Global,Corn
+2004,49.452,Global,Corn
+2005,48.196,Global,Corn
+2006,47.719,Global,Corn
+2007,49.98,Global,Corn
+2008,50.828,Global,Corn
+2009,51.635,Global,Corn
+2010,51.903,Global,Corn
+2011,51.751,Global,Corn
+2012,48.893,Global,Corn
+2013,54.611,Global,Corn
+2014,56.229,Global,Corn
+2015,55.379,Global,Corn
+2016,56.401,Global,Corn
+1990,48.6,Provincial,Rice
+1991,59.55,Provincial,Rice
+1992,51.45,Provincial,Rice
+1993,54.3,Provincial,Rice
+1994,57.6,Provincial,Rice
+1995,57.45,Provincial,Rice
+1996,61.2,Provincial,Rice
+1997,62.1,Provincial,Rice
+1998,63.75,Provincial,Rice
+1999,61.2,Provincial,Rice
+2000,63.6,Provincial,Rice
+2001,61.35,Provincial,Rice
+2002,47.4,Provincial,Rice
+2003,63.75,Provincial,Rice
+2004,66.6,Provincial,Rice
+2005,65.55,Provincial,Rice
+2006,62.4,Provincial,Rice
+2007,66.45,Provincial,Rice
+2008,66.75,Provincial,Rice
+2009,64.95,Provincial,Rice
+2010,64.05,Provincial,Rice
+2011,44.55,Provincial,Rice
+2012,58.95,Provincial,Rice
+2013,52.8,Provincial,Rice
+2014,59.1,Provincial,Rice
+2015,61.8,Provincial,Rice
+2016,63.9,Provincial,Rice
+1961,20.787,National,Rice
+1962,23.7,National,Rice
+1963,26.833,National,Rice
+1964,28.289,National,Rice
+1965,29.667,National,Rice
+1966,31.445,National,Rice
+1967,31.006,National,Rice
+1968,31.868,National,Rice
+1969,31.415,National,Rice
+1970,34.162,National,Rice
+1971,33.145,National,Rice
+1972,32.475,National,Rice
+1973,34.818,National,Rice
+1974,35.033,National,Rice
+1975,35.283,National,Rice
+1976,34.957,National,Rice
+1977,36.373,National,Rice
+1978,39.809,National,Rice
+1979,42.491,National,Rice
+1980,41.435,National,Rice
+1981,43.315,National,Rice
+1982,48.888,National,Rice
+1983,50.918,National,Rice
+1984,53.634,National,Rice
+1985,52.498,National,Rice
+1986,53.272,National,Rice
+1987,54.035,National,Rice
+1988,52.819,National,Rice
+1989,55.005,National,Rice
+1990,57.166,National,Rice
+1991,56.369,National,Rice
+1992,57.959,National,Rice
+1993,58.462,National,Rice
+1994,58.288,National,Rice
+1995,60.21,National,Rice
+1996,62.05,National,Rice
+1997,63.111,National,Rice
+1998,63.529,National,Rice
+1999,63.344,National,Rice
+2000,62.642,National,Rice
+2001,61.524,National,Rice
+2002,61.855,National,Rice
+2003,60.606,National,Rice
+2004,63.085,National,Rice
+2005,62.527,National,Rice
+2006,62.763,National,Rice
+2007,64.223,National,Rice
+2008,65.558,National,Rice
+2009,65.82,National,Rice
+2010,65.481,National,Rice
+2011,66.862,National,Rice
+2012,67.747,National,Rice
+2013,67.099,National,Rice
+2014,68.095,National,Rice
+2015,68.864,National,Rice
+2016,69.324,National,Rice
+1961,18.693,Global,Rice
+1962,18.958,Global,Rice
+1963,20.567,Global,Rice
+1964,21.025,Global,Rice
+1965,20.353,Global,Rice
+1966,20.781,Global,Rice
+1967,21.749,Global,Rice
+1968,22.328,Global,Rice
+1969,22.54,Global,Rice
+1970,23.808,Global,Rice
+1971,23.619,Global,Rice
+1972,23.245,Global,Rice
+1973,24.524,Global,Rice
+1974,24.251,Global,Rice
+1975,25.186,Global,Rice
+1976,24.509,Global,Rice
+1977,25.718,Global,Rice
+1978,26.843,Global,Rice
+1979,26.591,Global,Rice
+1980,27.482,Global,Rice
+1981,28.272,Global,Rice
+1982,29.804,Global,Rice
+1983,31.367,Global,Rice
+1984,32.261,Global,Rice
+1985,32.57,Global,Rice
+1986,32.441,Global,Rice
+1987,32.651,Global,Rice
+1988,33.296,Global,Rice
+1989,34.541,Global,Rice
+1990,35.286,Global,Rice
+1991,35.362,Global,Rice
+1992,35.847,Global,Rice
+1993,36.162,Global,Rice
+1994,36.576,Global,Rice
+1995,36.58,Global,Rice
+1996,37.84,Global,Rice
+1997,38.165,Global,Rice
+1998,38.16,Global,Rice
+1999,38.97,Global,Rice
+2000,38.874,Global,Rice
+2001,39.502,Global,Rice
+2002,38.63,Global,Rice
+2003,39.538,Global,Rice
+2004,40.301,Global,Rice
+2005,40.848,Global,Rice
+2006,41.187,Global,Rice
+2007,42.273,Global,Rice
+2008,42.92,Global,Rice
+2009,43.453,Global,Rice
+2010,43.364,Global,Rice
+2011,44.64,Global,Rice
+2012,45.396,Global,Rice
+2013,45.097,Global,Rice
+2014,45.572,Global,Rice
+2015,46.036,Global,Rice
+2016,46.366,Global,Rice
+1990,16.35,Provincial,Wheat
+1991,23.4,Provincial,Wheat
+1992,16.65,Provincial,Wheat
+1993,19.8,Provincial,Wheat
+1994,17.1,Provincial,Wheat
+1995,19.2,Provincial,Wheat
+1996,17.85,Provincial,Wheat
+1997,18.15,Provincial,Wheat
+1998,18,Provincial,Wheat
+1999,18,Provincial,Wheat
+2000,18.3,Provincial,Wheat
+2001,16.8,Provincial,Wheat
+2002,17.4,Provincial,Wheat
+2003,15.75,Provincial,Wheat
+2004,17.85,Provincial,Wheat
+2005,17.85,Provincial,Wheat
+2006,18.45,Provincial,Wheat
+2007,19.65,Provincial,Wheat
+2008,16.35,Provincial,Wheat
+2009,16.95,Provincial,Wheat
+2010,9.45,Provincial,Wheat
+2011,19.5,Provincial,Wheat
+2012,20.1,Provincial,Wheat
+2013,20.4,Provincial,Wheat
+2014,24.45,Provincial,Wheat
+2015,24.75,Provincial,Wheat
+2016,24.75,Provincial,Wheat
+1961,5.591,National,Wheat
+1962,6.941,National,Wheat
+1963,7.782,National,Wheat
+1964,8.215,National,Wheat
+1965,10.222,National,Wheat
+1966,10.586,National,Wheat
+1967,11.275,National,Wheat
+1968,11.149,National,Wheat
+1969,10.856,National,Wheat
+1970,11.476,National,Wheat
+1971,12.718,National,Wheat
+1972,13.695,National,Wheat
+1973,13.337,National,Wheat
+1974,15.116,National,Wheat
+1975,16.397,National,Wheat
+1976,17.754,National,Wheat
+1977,14.65,National,Wheat
+1978,18.449,National,Wheat
+1979,21.395,National,Wheat
+1980,18.914,National,Wheat
+1981,21.091,National,Wheat
+1982,24.517,National,Wheat
+1983,28.017,National,Wheat
+1984,29.691,National,Wheat
+1985,29.367,National,Wheat
+1986,30.403,National,Wheat
+1987,29.829,National,Wheat
+1988,29.679,National,Wheat
+1989,30.43,National,Wheat
+1990,31.941,National,Wheat
+1991,31.004,National,Wheat
+1992,33.312,National,Wheat
+1993,35.188,National,Wheat
+1994,34.263,National,Wheat
+1995,35.415,National,Wheat
+1996,37.341,National,Wheat
+1997,41.019,National,Wheat
+1998,36.852,National,Wheat
+1999,39.466,National,Wheat
+2000,37.382,National,Wheat
+2001,38.061,National,Wheat
+2002,37.766,National,Wheat
+2003,39.318,National,Wheat
+2004,42.519,National,Wheat
+2005,42.753,National,Wheat
+2006,45.935,National,Wheat
+2007,46.076,National,Wheat
+2008,47.62,National,Wheat
+2009,47.39,National,Wheat
+2010,47.484,National,Wheat
+2011,48.374,National,Wheat
+2012,49.868,National,Wheat
+2013,50.553,National,Wheat
+2014,52.433,National,Wheat
+2015,53.922,National,Wheat
+2016,54.088,National,Wheat
+1961,10.889,Global,Wheat
+1962,12.06,Global,Wheat
+1963,11.32,Global,Wheat
+1964,12.413,Global,Wheat
+1965,12.151,Global,Wheat
+1966,14.079,Global,Wheat
+1967,13.392,Global,Wheat
+1968,14.534,Global,Wheat
+1969,14.174,Global,Wheat
+1970,14.941,Global,Wheat
+1971,16.245,Global,Wheat
+1972,16.046,Global,Wheat
+1973,16.836,Global,Wheat
+1974,16.155,Global,Wheat
+1975,15.701,Global,Wheat
+1976,17.911,Global,Wheat
+1977,16.724,Global,Wheat
+1978,19.328,Global,Wheat
+1979,18.522,Global,Wheat
+1980,18.554,Global,Wheat
+1981,18.8,Global,Wheat
+1982,19.992,Global,Wheat
+1983,21.258,Global,Wheat
+1984,22.201,Global,Wheat
+1985,21.719,Global,Wheat
+1986,23.213,Global,Wheat
+1987,22.9,Global,Wheat
+1988,22.926,Global,Wheat
+1989,23.732,Global,Wheat
+1990,25.626,Global,Wheat
+1991,24.435,Global,Wheat
+1992,25.404,Global,Wheat
+1993,25.436,Global,Wheat
+1994,24.484,Global,Wheat
+1995,25.153,Global,Wheat
+1996,25.765,Global,Wheat
+1997,27.02,Global,Wheat
+1998,27.058,Global,Wheat
+1999,27.514,Global,Wheat
+2000,27.219,Global,Wheat
+2001,27.418,Global,Wheat
+2002,27.548,Global,Wheat
+2003,26.521,Global,Wheat
+2004,29.428,Global,Wheat
+2005,28.287,Global,Wheat
+2006,28.906,Global,Wheat
+2007,28.152,Global,Wheat
+2008,30.62,Global,Wheat
+2009,30.367,Global,Wheat
+2010,29.714,Global,Wheat
+2011,31.643,Global,Wheat
+2012,30.891,Global,Wheat
+2013,32.503,Global,Wheat
+2014,33.152,Global,Wheat
+2015,33.174,Global,Wheat
+2016,34.05,Global,Wheat
+1990,10.2,Provincial,Tubers
+1991,10.2,Provincial,Tubers
+1992,7.35,Provincial,Tubers
+1993,12,Provincial,Tubers
+1994,11.55,Provincial,Tubers
+1995,9.6,Provincial,Tubers
+1996,25.8,Provincial,Tubers
+1997,25.2,Provincial,Tubers
+1998,24.9,Provincial,Tubers
+1999,26.1,Provincial,Tubers
+2000,26.55,Provincial,Tubers
+2001,25.5,Provincial,Tubers
+2002,27.6,Provincial,Tubers
+2003,26.85,Provincial,Tubers
+2004,26.7,Provincial,Tubers
+2005,25.95,Provincial,Tubers
+2006,23.7,Provincial,Tubers
+2007,25.2,Provincial,Tubers
+2008,25.5,Provincial,Tubers
+2009,23.85,Provincial,Tubers
+2010,19.5,Provincial,Tubers
+2011,26.25,Provincial,Tubers
+2012,25.65,Provincial,Tubers
+2013,28.05,Provincial,Tubers
+2014,30.75,Provincial,Tubers
+2015,32.25,Provincial,Tubers
+2016,31.2,Provincial,Tubers
+1961,39.9053,National,Tubers
+1962,39.0149,National,Tubers
+1963,37.6504,National,Tubers
+1964,37.3639,National,Tubers
+1965,37.0969,National,Tubers
+1966,36.9536,National,Tubers
+1967,36.8632,National,Tubers
+1968,36.5636,National,Tubers
+1969,35.4411,National,Tubers
+1970,34.5335,National,Tubers
+1971,35.2839,National,Tubers
+1972,34.6964,National,Tubers
+1973,34.2922,National,Tubers
+1974,36.4991,National,Tubers
+1975,37.6202,National,Tubers
+1976,36.2127,National,Tubers
+1977,37.0989,National,Tubers
+1978,34.8752,National,Tubers
+1979,34.9693,National,Tubers
+1980,35.1583,National,Tubers
+1981,36.0427,National,Tubers
+1982,32.6247,National,Tubers
+1983,36.091,National,Tubers
+1984,34.2753,National,Tubers
+1985,32.6354,National,Tubers
+1986,34.501,National,Tubers
+1987,31.4051,National,Tubers
+1988,29.9165,National,Tubers
+1989,30.0776,National,Tubers
+1990,30.0147,National,Tubers
+1991,29.7831,National,Tubers
+1992,31.8271,National,Tubers
+1993,29.1744,National,Tubers
+1994,30.3735,National,Tubers
+1995,31.6802,National,Tubers
+1996,31.1051,National,Tubers
+1997,28.8648,National,Tubers
+1998,26.9947,National,Tubers
+1999,28.2908,National,Tubers
+2000,25.9858,National,Tubers
+2001,26.9068,National,Tubers
+2002,26.4236,National,Tubers
+2003,25.7189,National,Tubers
+2004,26.0406,National,Tubers
+2005,25.5136,National,Tubers
+2006,27.9097,National,Tubers
+2007,22.6128,National,Tubers
+2008,24.0896,National,Tubers
+2009,24.8894,National,Tubers
+2010,23.0845,National,Tubers
+2011,21.6208,National,Tubers
+2012,20.9311,National,Tubers
+2013,19.3401,National,Tubers
+2014,17.7713,National,Tubers
+2015,17.8781,National,Tubers
+2016,17.9755,National,Tubers
+1961,7.1209,National(Sweet potatoes),Tubers
+1962,7.6284,National(Sweet potatoes),Tubers
+1963,8.1755,National(Sweet potatoes),Tubers
+1964,7.0616,National(Sweet potatoes),Tubers
+1965,9.3535,National(Sweet potatoes),Tubers
+1966,9.9495,National(Sweet potatoes),Tubers
+1967,10.9562,National(Sweet potatoes),Tubers
+1968,11.3725,National(Sweet potatoes),Tubers
+1969,11.974,National(Sweet potatoes),Tubers
+1970,12.9077,National(Sweet potatoes),Tubers
+1971,12.5645,National(Sweet potatoes),Tubers
+1972,11.0412,National(Sweet potatoes),Tubers
+1973,14.1119,National(Sweet potatoes),Tubers
+1974,12.7716,National(Sweet potatoes),Tubers
+1975,13.4116,National(Sweet potatoes),Tubers
+1976,13.2744,National(Sweet potatoes),Tubers
+1977,13.25,National(Sweet potatoes),Tubers
+1978,13.6573,National(Sweet potatoes),Tubers
+1979,13.5291,National(Sweet potatoes),Tubers
+1980,15.0336,National(Sweet potatoes),Tubers
+1981,14.5935,National(Sweet potatoes),Tubers
+1982,15.6541,National(Sweet potatoes),Tubers
+1983,17.0366,National(Sweet potatoes),Tubers
+1984,17.3702,National(Sweet potatoes),Tubers
+1985,16.9683,National(Sweet potatoes),Tubers
+1986,16.437,National(Sweet potatoes),Tubers
+1987,18.2205,National(Sweet potatoes),Tubers
+1988,16.3667,National(Sweet potatoes),Tubers
+1989,16.8065,National(Sweet potatoes),Tubers
+1990,16.6382,National(Sweet potatoes),Tubers
+1991,17.0019,National(Sweet potatoes),Tubers
+1992,16.71,National(Sweet potatoes),Tubers
+1993,18.1894,National(Sweet potatoes),Tubers
+1994,17.727,National(Sweet potatoes),Tubers
+1995,19.2557,National(Sweet potatoes),Tubers
+1996,20.4201,National(Sweet potatoes),Tubers
+1997,17.1782,National(Sweet potatoes),Tubers
+1998,19.4388,National(Sweet potatoes),Tubers
+1999,21.215,National(Sweet potatoes),Tubers
+2000,20.2911,National(Sweet potatoes),Tubers
+2001,20.66,National(Sweet potatoes),Tubers
+2002,21.6927,National(Sweet potatoes),Tubers
+2003,20.766,National(Sweet potatoes),Tubers
+2004,21.7398,National(Sweet potatoes),Tubers
+2005,22.1808,National(Sweet potatoes),Tubers
+2006,22.1238,National(Sweet potatoes),Tubers
+2007,20.7023,National(Sweet potatoes),Tubers
+2008,20.787,National(Sweet potatoes),Tubers
+2009,21.5307,National(Sweet potatoes),Tubers
+2010,20.9278,National(Sweet potatoes),Tubers
+2011,21.6474,National(Sweet potatoes),Tubers
+2012,21.436,National(Sweet potatoes),Tubers
+2013,21.0653,National(Sweet potatoes),Tubers
+2014,21.1851,National(Sweet potatoes),Tubers
+2015,21.5229,National(Sweet potatoes),Tubers
+2016,21.0792,National(Sweet potatoes),Tubers
+1961,9.9225,National(Potatoes),Tubers
+1962,9.1994,National(Potatoes),Tubers
+1963,7.9996,National(Potatoes),Tubers
+1964,8.7532,National(Potatoes),Tubers
+1965,9.4144,National(Potatoes),Tubers
+1966,9.0025,National(Potatoes),Tubers
+1967,8.9533,National(Potatoes),Tubers
+1968,8.9022,National(Potatoes),Tubers
+1969,10.1603,National(Potatoes),Tubers
+1970,10.7489,National(Potatoes),Tubers
+1971,10.4779,National(Potatoes),Tubers
+1972,10.2188,National(Potatoes),Tubers
+1973,13.4986,National(Potatoes),Tubers
+1974,12.998,National(Potatoes),Tubers
+1975,11.5704,National(Potatoes),Tubers
+1976,11.2996,National(Potatoes),Tubers
+1977,13.235,National(Potatoes),Tubers
+1978,12.747,National(Potatoes),Tubers
+1979,11.138,National(Potatoes),Tubers
+1980,11.2447,National(Potatoes),Tubers
+1981,10.2809,National(Potatoes),Tubers
+1982,10.8924,National(Potatoes),Tubers
+1983,11.3754,National(Potatoes),Tubers
+1984,11.6578,National(Potatoes),Tubers
+1985,10.8015,National(Potatoes),Tubers
+1986,10.0065,National(Potatoes),Tubers
+1987,10.3142,National(Potatoes),Tubers
+1988,11.5177,National(Potatoes),Tubers
+1989,11.0093,National(Potatoes),Tubers
+1990,11.3209,National(Potatoes),Tubers
+1991,10.5654,National(Potatoes),Tubers
+1992,12.6205,National(Potatoes),Tubers
+1993,14.8729,National(Potatoes),Tubers
+1994,13.6584,National(Potatoes),Tubers
+1995,13.3844,National(Potatoes),Tubers
+1996,14.1997,National(Potatoes),Tubers
+1997,14.9655,National(Potatoes),Tubers
+1998,15.8916,National(Potatoes),Tubers
+1999,12.7032,National(Potatoes),Tubers
+2000,14.0353,National(Potatoes),Tubers
+2001,13.6844,National(Potatoes),Tubers
+2002,15.0405,National(Potatoes),Tubers
+2003,15.0615,National(Potatoes),Tubers
+2004,15.7112,National(Potatoes),Tubers
+2005,14.5263,National(Potatoes),Tubers
+2006,15.3168,National(Potatoes),Tubers
+2007,14.6283,National(Potatoes),Tubers
+2008,15.182,National(Potatoes),Tubers
+2009,14.4171,National(Potatoes),Tubers
+2010,15.6686,National(Potatoes),Tubers
+2011,16.2826,National(Potatoes),Tubers
+2012,16.7712,National(Potatoes),Tubers
+2013,17.091,National(Potatoes),Tubers
+2014,17.1416,National(Potatoes),Tubers
+2015,17.2684,National(Potatoes),Tubers
+2016,17.6866,National(Potatoes),Tubers
+1961,7.3477,Global(Sweet potatoes),Tubers
+1962,7.7257,Global(Sweet potatoes),Tubers
+1963,8.185,Global(Sweet potatoes),Tubers
+1964,7.3319,Global(Sweet potatoes),Tubers
+1965,9.1159,Global(Sweet potatoes),Tubers
+1966,9.6066,Global(Sweet potatoes),Tubers
+1967,10.3307,Global(Sweet potatoes),Tubers
+1968,10.6061,Global(Sweet potatoes),Tubers
+1969,10.9648,Global(Sweet potatoes),Tubers
+1970,11.5971,Global(Sweet potatoes),Tubers
+1971,11.1913,Global(Sweet potatoes),Tubers
+1972,10.0621,Global(Sweet potatoes),Tubers
+1973,12.4422,Global(Sweet potatoes),Tubers
+1974,11.3056,Global(Sweet potatoes),Tubers
+1975,11.7487,Global(Sweet potatoes),Tubers
+1976,11.4958,Global(Sweet potatoes),Tubers
+1977,11.5601,Global(Sweet potatoes),Tubers
+1978,11.92,Global(Sweet potatoes),Tubers
+1979,11.8921,Global(Sweet potatoes),Tubers
+1980,12.8143,Global(Sweet potatoes),Tubers
+1981,12.4292,Global(Sweet potatoes),Tubers
+1982,13.1557,Global(Sweet potatoes),Tubers
+1983,14.0511,Global(Sweet potatoes),Tubers
+1984,14.3189,Global(Sweet potatoes),Tubers
+1985,13.6935,Global(Sweet potatoes),Tubers
+1986,13.4106,Global(Sweet potatoes),Tubers
+1987,14.6401,Global(Sweet potatoes),Tubers
+1988,13.3668,Global(Sweet potatoes),Tubers
+1989,13.6623,Global(Sweet potatoes),Tubers
+1990,13.3841,Global(Sweet potatoes),Tubers
+1991,13.9435,Global(Sweet potatoes),Tubers
+1992,13.7224,Global(Sweet potatoes),Tubers
+1993,14.6495,Global(Sweet potatoes),Tubers
+1994,14.3507,Global(Sweet potatoes),Tubers
+1995,15.0179,Global(Sweet potatoes),Tubers
+1996,15.6403,Global(Sweet potatoes),Tubers
+1997,13.5464,Global(Sweet potatoes),Tubers
+1998,14.9264,Global(Sweet potatoes),Tubers
+1999,15.4089,Global(Sweet potatoes),Tubers
+2000,14.5647,Global(Sweet potatoes),Tubers
+2001,14.3804,Global(Sweet potatoes),Tubers
+2002,14.8384,Global(Sweet potatoes),Tubers
+2003,14.4525,Global(Sweet potatoes),Tubers
+2004,14.3504,Global(Sweet potatoes),Tubers
+2005,14.5424,Global(Sweet potatoes),Tubers
+2006,13.5694,Global(Sweet potatoes),Tubers
+2007,12.8536,Global(Sweet potatoes),Tubers
+2008,13.7094,Global(Sweet potatoes),Tubers
+2009,12.7638,Global(Sweet potatoes),Tubers
+2010,12.3274,Global(Sweet potatoes),Tubers
+2011,12.51,Global(Sweet potatoes),Tubers
+2012,12.303,Global(Sweet potatoes),Tubers
+2013,11.9382,Global(Sweet potatoes),Tubers
+2014,11.4658,Global(Sweet potatoes),Tubers
+2015,11.5159,Global(Sweet potatoes),Tubers
+2016,11.211,Global(Sweet potatoes),Tubers
+1961,12.2157,Global(Potatoes),Tubers
+1962,11.4361,Global(Potatoes),Tubers
+1963,12.2767,Global(Potatoes),Tubers
+1964,13.1027,Global(Potatoes),Tubers
+1965,12.6646,Global(Potatoes),Tubers
+1966,13.1204,Global(Potatoes),Tubers
+1967,13.8416,Global(Potatoes),Tubers
+1968,14.3266,Global(Potatoes),Tubers
+1969,13.4656,Global(Potatoes),Tubers
+1970,14.3478,Global(Potatoes),Tubers
+1971,13.7155,Global(Potatoes),Tubers
+1972,13.4099,Global(Potatoes),Tubers
+1973,15.2883,Global(Potatoes),Tubers
+1974,14.1281,Global(Potatoes),Tubers
+1975,13.6232,Global(Potatoes),Tubers
+1976,14.3122,Global(Potatoes),Tubers
+1977,14.6567,Global(Potatoes),Tubers
+1978,15.2024,Global(Potatoes),Tubers
+1979,15.4954,Global(Potatoes),Tubers
+1980,12.8007,Global(Potatoes),Tubers
+1981,14.2523,Global(Potatoes),Tubers
+1982,14.1456,Global(Potatoes),Tubers
+1983,14.1605,Global(Potatoes),Tubers
+1984,15.5818,Global(Potatoes),Tubers
+1985,15.2816,Global(Potatoes),Tubers
+1986,15.8143,Global(Potatoes),Tubers
+1987,15.5447,Global(Potatoes),Tubers
+1988,14.8356,Global(Potatoes),Tubers
+1989,15.3536,Global(Potatoes),Tubers
+1990,15.112,Global(Potatoes),Tubers
+1991,14.4229,Global(Potatoes),Tubers
+1992,14.9856,Global(Potatoes),Tubers
+1993,16.4116,Global(Potatoes),Tubers
+1994,14.8557,Global(Potatoes),Tubers
+1995,15.3258,Global(Potatoes),Tubers
+1996,16.5045,Global(Potatoes),Tubers
+1997,16.0159,Global(Potatoes),Tubers
+1998,15.8692,Global(Potatoes),Tubers
+1999,15.1143,Global(Potatoes),Tubers
+2000,16.2234,Global(Potatoes),Tubers
+2001,15.7161,Global(Potatoes),Tubers
+2002,16.4637,Global(Potatoes),Tubers
+2003,16.4466,Global(Potatoes),Tubers
+2004,17.5098,Global(Potatoes),Tubers
+2005,16.9397,Global(Potatoes),Tubers
+2006,17.2795,Global(Potatoes),Tubers
+2007,17.3924,Global(Potatoes),Tubers
+2008,18.0149,Global(Potatoes),Tubers
+2009,17.8032,Global(Potatoes),Tubers
+2010,18.0885,Global(Potatoes),Tubers
+2011,19.6788,Global(Potatoes),Tubers
+2012,19.3157,Global(Potatoes),Tubers
+2013,19.7359,Global(Potatoes),Tubers
+2014,20.5198,Global(Potatoes),Tubers
+2015,20.3208,Global(Potatoes),Tubers
+2016,20.3375,Global(Potatoes),Tubers
+1990,18.75,Provincial,Soybean
+1991,18.3,Provincial,Soybean
+1992,17.4,Provincial,Soybean
+1993,22.5,Provincial,Soybean
+1994,23.85,Provincial,Soybean
+1995,25.2,Provincial,Soybean
+1996,11.25,Provincial,Soybean
+1997,12,Provincial,Soybean
+1998,12.6,Provincial,Soybean
+1999,12.75,Provincial,Soybean
+2000,12.9,Provincial,Soybean
+2001,12,Provincial,Soybean
+2002,13.5,Provincial,Soybean
+2003,13.8,Provincial,Soybean
+2004,13.65,Provincial,Soybean
+2005,12.3,Provincial,Soybean
+2006,11.55,Provincial,Soybean
+2007,12.3,Provincial,Soybean
+2008,13.2,Provincial,Soybean
+2009,12.6,Provincial,Soybean
+2010,12.45,Provincial,Soybean
+2011,5.4,Provincial,Soybean
+2012,5.85,Provincial,Soybean
+2013,6.3,Provincial,Soybean
+2014,9,Provincial,Soybean
+2015,9.3,Provincial,Soybean
+2016,9.9,Provincial,Soybean
+1961,6.26,National,Soybean
+1962,6.873,National,Soybean
+1963,7.194,National,Soybean
+1964,7.888,National,Soybean
+1965,7.185,National,Soybean
+1966,9.841,National,Soybean
+1967,9.765,National,Soybean
+1968,9.654,National,Soybean
+1969,9.201,National,Soybean
+1970,10.942,National,Soybean
+1971,11.082,National,Soybean
+1972,8.552,National,Soybean
+1973,11.337,National,Soybean
+1974,10.327,National,Soybean
+1975,10.382,National,Soybean
+1976,9.96,National,Soybean
+1977,10.646,National,Soybean
+1978,10.617,National,Soybean
+1979,10.322,National,Soybean
+1980,11.011,National,Soybean
+1981,11.639,National,Soybean
+1982,10.742,National,Soybean
+1983,12.913,National,Soybean
+1984,13.309,National,Soybean
+1985,13.608,National,Soybean
+1986,14.002,National,Soybean
+1987,14.434,National,Soybean
+1988,14.346,National,Soybean
+1989,12.699,National,Soybean
+1990,14.554,National,Soybean
+1991,13.799,National,Soybean
+1992,14.274,National,Soybean
+1993,16.195,National,Soybean
+1994,17.351,National,Soybean
+1995,16.617,National,Soybean
+1996,17.703,National,Soybean
+1997,17.652,National,Soybean
+1998,17.826,National,Soybean
+1999,17.892,National,Soybean
+2000,16.557,National,Soybean
+2001,16.248,National,Soybean
+2002,18.929,National,Soybean
+2003,16.529,National,Soybean
+2004,18.148,National,Soybean
+2005,17.045,National,Soybean
+2006,16.209,National,Soybean
+2007,14.537,National,Soybean
+2008,17.028,National,Soybean
+2009,16.302,National,Soybean
+2010,17.712,National,Soybean
+2011,18.362,National,Soybean
+2012,18.144,National,Soybean
+2013,17.6,National,Soybean
+2014,17.874,National,Soybean
+2015,18.113,National,Soybean
+2016,18.019,National,Soybean
+1961,11.287,Global,Soybean
+1962,11.384,Global,Soybean
+1963,11.561,Global,Soybean
+1964,11.323,Global,Soybean
+1965,12.279,Global,Soybean
+1966,13.723,Global,Soybean
+1967,13.494,Global,Soybean
+1968,14.345,Global,Soybean
+1969,14.523,Global,Soybean
+1970,14.8,Global,Soybean
+1971,15.189,Global,Soybean
+1972,14.896,Global,Soybean
+1973,15.851,Global,Soybean
+1974,14.079,Global,Soybean
+1975,16.574,Global,Soybean
+1976,15.443,Global,Soybean
+1977,17.561,Global,Soybean
+1978,16.264,Global,Soybean
+1979,17.492,Global,Soybean
+1980,16.001,Global,Soybean
+1981,17.538,Global,Soybean
+1982,17.586,Global,Soybean
+1983,16.201,Global,Soybean
+1984,17.143,Global,Soybean
+1985,19.063,Global,Soybean
+1986,18.199,Global,Soybean
+1987,19.052,Global,Soybean
+1988,17.047,Global,Soybean
+1989,18.288,Global,Soybean
+1990,18.958,Global,Soybean
+1991,18.725,Global,Soybean
+1992,20.31,Global,Soybean
+1993,19.361,Global,Soybean
+1994,21.825,Global,Soybean
+1995,20.312,Global,Soybean
+1996,21.316,Global,Soybean
+1997,21.565,Global,Soybean
+1998,22.562,Global,Soybean
+1999,21.901,Global,Soybean
+2000,21.708,Global,Soybean
+2001,23.061,Global,Soybean
+2002,22.925,Global,Soybean
+2003,22.796,Global,Soybean
+2004,22.433,Global,Soybean
+2005,23.175,Global,Soybean
+2006,23.24,Global,Soybean
+2007,24.37,Global,Soybean
+2008,23.983,Global,Soybean
+2009,22.481,Global,Soybean
+2010,25.781,Global,Soybean
+2011,25.197,Global,Soybean
+2012,22.894,Global,Soybean
+2013,24.999,Global,Soybean
+2014,26.044,Global,Soybean
+2015,26.757,Global,Soybean
+2016,27.556,Global,Soybean
